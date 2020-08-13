@@ -1,6 +1,6 @@
 # A Minimal CSS Reset
 
-My take on a minimal CSS reset for web projects. Based on [A Modern CSS Reset](https://hankchizljaw.com/wrote/a-modern-css-reset/) by Andy Bell and the 
+A minimal CSS reset for basic projects. Based on [A Modern CSS Reset](https://hankchizljaw.com/wrote/a-modern-css-reset/) by Andy Bell and the 
 [Minimal CSS Reset](https://alligator.io/css/minimal-css-reset/) from Alligator. You can use either of them. I have cherry-picked the parts that works best for me.
 
 ## Installing / Getting started
