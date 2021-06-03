@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+/* Remove blue line around buttons on focus */
+*:focus {
+  outline: none;
+}
+
 body {
   min-height: 100vh;
   scroll-behavior: smooth;
@@ -43,4 +48,9 @@ button,
 textarea,
 select {
   font: inherit;
+}
+
+/* Remove underline on navigation items */
+a {
+  text-decoration: none;
 }
